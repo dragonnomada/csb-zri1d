@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://dragonnomada.github.io/csb-zri1d/static/js/main.1dd7aaef.chunk.js",
+    "main.js.map": "https://dragonnomada.github.io/csb-zri1d/static/js/main.1dd7aaef.chunk.js.map",
+    "runtime-main.js": "https://dragonnomada.github.io/csb-zri1d/static/js/runtime-main.9379954d.js",
+    "runtime-main.js.map": "https://dragonnomada.github.io/csb-zri1d/static/js/runtime-main.9379954d.js.map",
+    "static/js/2.7c673c4e.chunk.js": "https://dragonnomada.github.io/csb-zri1d/static/js/2.7c673c4e.chunk.js",
+    "static/js/2.7c673c4e.chunk.js.map": "https://dragonnomada.github.io/csb-zri1d/static/js/2.7c673c4e.chunk.js.map",
+    "index.html": "https://dragonnomada.github.io/csb-zri1d/index.html",
+    "static/js/2.7c673c4e.chunk.js.LICENSE.txt": "https://dragonnomada.github.io/csb-zri1d/static/js/2.7c673c4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9379954d.js",
+    "static/js/2.7c673c4e.chunk.js",
+    "static/js/main.1dd7aaef.chunk.js"
+  ]
+}
